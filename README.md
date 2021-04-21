@@ -1,8 +1,7 @@
 # SimpleCalc1.0
 
-Thanks for stopping by!
+Thanks for stopping by! This little programming demo was a first time java project by myself along with Phoenix Franco (github.com/ProjectsByPhoenix). Phoenix was very helpful in first tests, mapping out logic, and writing/implementing his own code. 
 
-This was my first official mini project to make a GUI equipped program in JAVA using JAVAFX. 
 There are a number of future objectives for this project. 
 However, let this serve as a very basic experiment with implementing JAVAFX GUI.
 
